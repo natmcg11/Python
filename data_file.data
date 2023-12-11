@@ -1,0 +1,10 @@
+Steps to file management:
+	1: Create or open a file.
+	2: Write or read data from the file.
+	3: Close the file connection or handle.
+data_file.data had 4 lines of data, and now it has 5
+data_file.data had 5 lines of data, and now it has 6
+data_file.data had 6 lines of data, and now it has 7
+data_file.data had 7 lines of data, and now it has 8
+data_file.data had 8 lines of data, and now it has 9
+data_file.data had 9 lines of data, and now it has 10
